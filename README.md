@@ -35,17 +35,17 @@
 - Explore small projects to strengthen understanding of web development. / أستكشف مشاريع صغيرة لتقوية فهم تطوير الويب.  
 - Always looking for ways to optimize workflow and code quality. / أبحث دائمًا عن طرق لتحسين سير العمل وجودة الكود.  
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="30%"/>  
+<img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Coding GIF" width="30%"/>  
 
 ---
 
 ### 😄 Fun Fact / حقيقة ممتعة
 
 - I once tried debugging for 3 hours and realized I forgot a semicolon. 😆 / مرة قضيت 3 ساعات أصحح أخطاء وطلعت المشكلة مجرد فاصلة منقوطة. 😆  
-- Sometimes I talk to my code to motivate it to work faster. 😜 / أحيانًا أكلم الكود عشان أشجعه يشتغل أسرع. 😜  
+- Sometimes I talk to my code to motivate it to work faster. 😜 / أحيانًا أكلم الكود عشان أشجعه يشتغل أسرع.  
 - Small coding experiments often lead to big learning moments. / التجارب الصغيرة في الكود تؤدي غالبًا إلى لحظات تعلم كبيرة.  
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Fun GIF" width="30%"/>  
+<img src="https://media.giphy.com/media/xT0BKpqkH5d1Yt8Uq8/giphy.gif" alt="Fun GIF" width="30%"/>  
 
 ---
 
