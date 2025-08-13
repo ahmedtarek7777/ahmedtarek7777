@@ -32,14 +32,17 @@
 - Commit code daily using Git and manage projects in VS Code. / أعمل Commit للكود يوميًا باستخدام Git وأدير المشاريع في VS Code.  
 - Solve coding challenges to improve problem-solving skills. / أحل مسائل برمجية لتطوير مهارات حل المشاكل.  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng1Z2lyazl2c2o4MnE5b3RwbGx2Mjh4aWVzd3lqdzJqNW56cjM4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding fast GIF" width="40%"/>  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng1Z2lyazl2c2o4MnE5b3RwbGx2Mjh4aWVzd3lqdzJqNW56cjM4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding fast GIF" width="40%"/>  
 
 ---
 
 ### 😄 Fun Fact / حقيقة ممتعة
 
-- "Debugging is like being the detective in a crime movie where you are also the murderer." 😆 / "تصحيح الأخطاء يشبه كونك محقق في فيلم جريمة وأنت أيضًا القاتل."  
-- "Programming is 10% writing code and 90% understanding why it doesn’t work." 😜 / "البرمجة 10% كتابة كود و90% فهم سبب عدم عمله."  
+- "Coding without bugs is like unicorns existing… basically a myth." 🦄😂  
+  "البرمجة من غير أخطاء زي وجود وحيد القرن… باختصار مجرد خرافة."  
+
+- "I talk to my code… sometimes it talks back in errors." 😆  
+  "أتكلم مع الكود بتاعي… وأحيانًا بيرد عليا بالأخطاء."  
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTRmazNqenFkb3dkemVoYTJkY2g2cTY3a2RndjZzZnpienY2MXFnayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Npdl9kOaKFJHuRCBGx/giphy.gif" alt="Funny GIF" width="40%"/>  
 
@@ -54,3 +57,4 @@
 ---
 
 ⭐ *"Keep coding, keep growing" / استمر في البرمجة وتطور*  
+
