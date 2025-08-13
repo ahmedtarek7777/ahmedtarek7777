@@ -25,12 +25,41 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-```dart
-// my_current_focus
-class AhmedTarek { 
-  const myTools = {  
-    "Languages" : { "HTML", "CSS", "JavaScript", "Python" },
-    "Tools" : { "Git", "VS Code" },
-    "Focus" : "Web Development / تطوير الويب"
-  };
-}
+---
+
+### 🎯 What I do / ماذا أفعل
+
+- Build interactive websites and experiment with new layouts. / أبني مواقع تفاعلية وأجرب تصميمات جديدة.  
+- Commit code daily using Git and manage projects in VS Code. / أعمل Commit للكود يوميًا باستخدام Git وأدير المشاريع في VS Code.  
+- Solve coding challenges to improve problem-solving skills. / أحل مسائل برمجية لتطوير مهارات حل المشاكل.  
+- Explore small projects to strengthen understanding of web development. / أستكشف مشاريع صغيرة لتقوية فهم تطوير الويب.  
+- Always looking for ways to optimize workflow and code quality. / أبحث دائمًا عن طرق لتحسين سير العمل وجودة الكود.  
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="30%"/>  
+
+---
+
+### 😄 Fun Fact / حقيقة ممتعة
+
+- I once tried debugging for 3 hours and realized I forgot a semicolon. 😆 / مرة قضيت 3 ساعات أصحح أخطاء وطلعت المشكلة مجرد فاصلة منقوطة. 😆  
+- Sometimes I talk to my code to motivate it to work faster. 😜 / أحيانًا أكلم الكود عشان أشجعه يشتغل أسرع. 😜  
+- Small coding experiments often lead to big learning moments. / التجارب الصغيرة في الكود تؤدي غالبًا إلى لحظات تعلم كبيرة.  
+
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Fun GIF" width="30%"/>  
+
+---
+
+### 📊 GitHub Stats / إحصاءات GitHub
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedTarek&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarek&layout=compact&theme=tokyonight" width="48%">
+</div>
+
+---
+
+### 📫 Connect With Me / تواصل معي
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourusername)  
+
+---
+
+⭐ *"Keep coding, keep growing" / استمر في البرمجة وتطور*  
