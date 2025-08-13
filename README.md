@@ -35,17 +35,16 @@
 - Explore small projects to strengthen understanding of web development. / أستكشف مشاريع صغيرة لتقوية فهم تطوير الويب.  
 - Always looking for ways to optimize workflow and code quality. / أبحث دائمًا عن طرق لتحسين سير العمل وجودة الكود.  
 
-<img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Coding GIF" width="30%"/>  
+<img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Coding fast GIF" width="30%"/>  
 
 ---
 
 ### 😄 Fun Fact / حقيقة ممتعة
 
-- I once tried debugging for 3 hours and realized I forgot a semicolon. 😆 / مرة قضيت 3 ساعات أصحح أخطاء وطلعت المشكلة مجرد فاصلة منقوطة. 😆  
-- Sometimes I talk to my code to motivate it to work faster. 😜 / أحيانًا أكلم الكود عشان أشجعه يشتغل أسرع.  
-- Small coding experiments often lead to big learning moments. / التجارب الصغيرة في الكود تؤدي غالبًا إلى لحظات تعلم كبيرة.  
+- "Debugging is like being the detective in a crime movie where you are also the murderer." 😆 / "تصحيح الأخطاء يشبه كونك محقق في فيلم جريمة وأنت أيضًا القاتل."  
+- "Programming is 10% writing code and 90% understanding why it doesn’t work." 😜 / "البرمجة 10% كتابة كود و90% فهم سبب عدم عمله."  
 
-<img src="https://media.giphy.com/media/xT0BKpqkH5d1Yt8Uq8/giphy.gif" alt="Fun GIF" width="30%"/>  
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Funny GIF" width="30%"/>  
 
 ---
 
@@ -54,11 +53,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AhmedTarek&show_icons=true&theme=tokyonight" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarek&layout=compact&theme=tokyonight" width="48%">
 </div>
-
----
-
-### 📫 Connect With Me / تواصل معي
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourusername)  
 
 ---
 
