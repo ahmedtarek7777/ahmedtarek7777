@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 Welcome, fellow coders & dreamers! / مرحباً بالمبرمجين والحالمين
+## 👋 Welcome, fellow coders  / مرحباً بالمبرمجين 
 🤖 **AI & Web Developer in Progress / مطور ويب وذكاء اصطناعي تحت التمرين**  
 🐍 Passionate about learning **multiple programming languages for AI** and using them to solve real-world problems.  
 🎯 My Goal: Master **AI & Data Science** while building modern, responsive web apps.  
