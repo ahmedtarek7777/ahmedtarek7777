@@ -1,76 +1,91 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng1Z2lyazl2c2o4MnE5b3RwbGx2Mjh4aWVzd3lqdzJqNW56cjM4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Fast / كتابة الكود بسرعة" width="50%"/>  
-<br>
+  <!-- Header Banner GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng1Z2lyazl2c2o4MnE5b3RwbGx2Mjh4aWVzd3lqdzJqNW56cjM4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Software Engineering Banner" width="60%"/>
+  
+  <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedTarek&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedTarek&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+  <!-- Headline -->
+  <h1>Architecting the Web | Engineering the Future</h1>
+  <p><b>Aspiring Full-Stack Software Engineer & AI Innovator</b></p>
+
+  <!-- Visitor & Hit Badges -->
+  <a href="https://github.com/ahmedtarek7777">
+    <img src="https://komarev.com/ghpvc/?username=ahmedtarek7777&style=for-the-badge&color=007ACC&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/ahmedtarek7777">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahmedtarek7777&count_bg=%2300C853&title_bg=%23212121&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=true" alt="Hits"/>
+  </a>
 
 </div>
 
 ---
 
-## 👋 Welcome, Code Explorer!
-🤖 **AI & Web Developer in Progress  
-🔥 Passionate about learning cutting-edge technologies & turning ideas into digital reality.   
-🎯 **Goal | الهدف:** Master *AI & Data Science* while crafting smart, modern, and responsive web apps.  .
+## 👨‍💻 Executive Summary
+
+I am a highly driven **Software Engineering Practitioner** dedicated to mastering the end-to-end Web Development lifecycle. Having solidified a robust foundation in core client-side technologies (**HTML5** & **CSS3**), I am currently sharpening my proficiency in **JavaScript (ES6+)** to engineer dynamic, interactive, and high-performance user interfaces.
+
+My ultimate objective is to evolve into a versatile **Full-Stack Engineer**, seamlessly bridging the gap between scalable server-side architectures, intuitive client-side experiences, and intelligent **Artificial Intelligence & Data Science** integrations.
 
 ---
 
-### 🚀 Languages I’m Learning 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## 🎯 Strategic Roadmap | Key Milestones
+
+- 🟢 **Mastered:** HTML5, CSS3, Modern UI/UX Architecture, Git/GitHub Workflows.
+- 🟡 **In Progress:** Deep-Diving JavaScript (Asynchronous JS, DOM Manipulation, ES6+ Features).
+- 🔵 **Next Frontier:** Modern Frontend Frameworks (**React.js** / **Next.js**), Backend Architectures (**Node.js**, **Express**, **Databases**), and AI System Integration.
 
 ---
 
-### 🛠️ Tools of My Craft
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+## 🛠️ Technical Stack & Tooling
 
-💼 **English:** These are the tools that help me turn ideas into working projects.  
+### **Core Web Technologies & Client-Side Architecture**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Programming Languages & Data Analytics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### **Developer Tooling & Environment**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 💻 What I Build 
-- 🌐 **Interactive & responsive websites** 
-- 🧠 **AI & Machine Learning experiments**
-- 🧩 **Version-controlled clean projects with Git & VS Code** —
-- ⚙️ **High-performance algorithms in C++ & Java** — 
+## 💡 Engineering Philosophy & Value Proposition
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng1Z2lyazl2c2o4MnE5b3RwbGx2Mjh4aWVzd3lqdzJqNW56cjM4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="AI Coding" width="40%"/>
+
+> *"Software craftsmanship is not merely writing functional code; it is the deliberate practice of architecting scalable, maintainable, and elegant digital experiences."*
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng1Z2lyazl2c2o4MnE5b3RwbGx2Mjh4aWVzd3lqdzJqNW56cjM4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="AI & Logic" width="38%"/>
+
 </div>
+
+### **Core Competencies:**
+- 📐 **Semantic & Responsive Design:** Translating complex wireframes into fluid, accessible UI layouts.
+- ⚡ **Performance Optimization:** Writing clean, modular, and maintainable code bases.
+- 🔁 **Continuous Integration:** Utilizing industry-standard Git version control for robust iteration.
 
 ---
 
-### ⚡ Fun Philosophy
-> "AI isn’t replacing humans — it’s upgrading the challenge."  
-> 
-> "Every new language I learn is a new superpower."  
-> "Coding is not just typing — it’s building the future, one line at a time."  
+## 📊 Performance Metrics & Analytics
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTRmazNqenFkb3dkemVoYTJkY2g2cTY3a2RndjZzZnpienY2MXFnayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Npdl9kOaKFJHuRCBGx/giphy.gif" alt="AI GIF" width="40%"/>  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtarek7777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtarek7777&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats | إحصاءات GitHub
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedTarek&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarek&layout=compact&theme=tokyonight" width="48%">
+
+🤝 **Open for Collaboration & Technical Opportunities**  
+*Feel free to explore my repositories or get in touch to discuss software engineering, web development, or potential tech ventures.*
+
 </div>
-
----
-
-⭐ *Keep coding. Keep growing. Keep training the machine to think.*  
-
