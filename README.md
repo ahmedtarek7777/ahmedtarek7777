@@ -9,9 +9,9 @@
   <h1>Architecting the Web | Engineering the Future</h1>
   <p><b>Aspiring Full-Stack Software Engineer & AI Innovator</b></p>
 
-  <!-- Location Badge / Nationality -->
+  <!-- Egyptian Nationality Badge (Very Clear & Professional) -->
   <p>
-    <img src="https://img.shields.io/badge/Location-Egypt%20%F0%9F%87%AA%F0%9F%87%AC-007ACC?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Egypt"/>
+    <img src="https://img.shields.io/badge/Nationality-Egyptian%20🇪🇬-C8102E?style=for-the-badge&labelColor=000000" alt="Egyptian Nationality"/>
   </p>
 
   <!-- Visitor & Hit Badges -->
@@ -19,7 +19,7 @@
     <img src="https://komarev.com/ghpvc/?username=ahmedtarek7777&style=for-the-badge&color=007ACC&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
   <a href="https://github.com/ahmedtarek7777">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedTarek&count_bg=%2300C853&title_bg=%23212121&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=true" alt="Hits"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2fahmedtarek7777&count_bg=%2300C853&title_bg=%23212121&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=true" alt="Hits"/>
   </a>
 
 </div>
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 Executive Summary
 
-Based in **Egypt 🇪🇬**, I am a highly driven **Software Engineering Practitioner** dedicated to mastering the end-to-end Web Development lifecycle. Having solidified a robust foundation in core client-side technologies (**HTML5** & **CSS3**), I am currently sharpening my proficiency in **JavaScript (ES6+)** to engineer dynamic, interactive, and high-performance user interfaces.
+As an **Egyptian 🇪🇬 Software Engineering Practitioner**, I am dedicated to mastering the end-to-end Web Development lifecycle. Having solidified a robust foundation in core client-side technologies (**HTML5** & **CSS3**), I am currently sharpening my proficiency in **JavaScript (ES6+)** to engineer dynamic, interactive, and high-performance user interfaces.
 
 My ultimate objective is to evolve into a versatile **Full-Stack Engineer**, seamlessly bridging the gap between scalable server-side architectures, intuitive client-side experiences, and intelligent **Artificial Intelligence & Data Science** integrations.
 
